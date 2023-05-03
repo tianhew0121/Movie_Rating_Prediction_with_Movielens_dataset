@@ -1,1 +1,1 @@
-# Movie_Revenue_Prediction_with_Movielens_dataset
+# Movie Revenue Prediction with Movielens dataset
